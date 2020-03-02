@@ -1,11 +1,10 @@
 # multivariate-time-series-prediction
 This code is the implementation of this paper (Multistage attention network for multivariate time series prediction)
 
-#Environment version
+# Environment version
 TensorFlow-gpu = 1.4.0
 Keras = 2.1.5
-
-#References
+# References
 If you are interested, please cite this paper.
 @article{DBLP:journals/ijon/HuZ20,
   author    = {Jun Hu and
