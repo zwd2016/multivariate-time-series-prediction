@@ -1,5 +1,5 @@
-# multivariate-time-series-prediction
-This code is the implementation of this paper (Multistage attention network for multivariate time series prediction)
+# Multivariate-time-series-prediction
+This code is the implementation of this paper (Neurocomputing: Multistage attention network for multivariate time series prediction)
 
 # Environment version
 TensorFlow-gpu = 1.4.0
