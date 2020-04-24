@@ -4,6 +4,10 @@ This code is the implementation of this paper (Neurocomputing: Multistage attent
 # Environment version
 TensorFlow-gpu = 1.4.0
 Keras = 2.1.5
+
+# Figure
+![](https://github.com/zwd2016/multivariate-time-series-prediction/raw/master/Figure-9-heatmap.jpg)
+
 # References
 If you are interested, please cite this paper.
 @article{DBLP:journals/ijon/HuZ20,
